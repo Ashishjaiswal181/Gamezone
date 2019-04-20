@@ -2,14 +2,13 @@
     margin: 0;
     border: 0;
     padding: 0;
-
     background-repeat: no-repeat;
     background-color: black;
     background-size: contain;
     color: darkorange;
     font-size: 80px;
     Font-family: cursive;
-    padding-left: 35%;
+    padding-left: 30%;
     padding-right: 30%;
 }
 
@@ -23,7 +22,8 @@
 }
 
 #foot {
-    margin-top: 100%;
+    margin-top: 5%;
+    margin-bottom: 0%;
     background-color: royalblue;
     background-blend-mode: color;
 
@@ -37,6 +37,19 @@
 
 }
 
+#content{
+    text-align: center;
+    color: coral;
+    font-size: 30px;
+    font-family: cursive;
+}
+
+#imgs{
+    column-count: 2;
+    position: relative;
+    padding-left: 20%;
+    padding-right: 20%;
+}
 #maintain {
     padding: 5px;
     text-align: center;

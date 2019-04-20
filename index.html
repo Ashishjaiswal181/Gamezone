@@ -28,11 +28,34 @@
                 </div>
             </div>
         </header>
-
-        <section>
-<img src="dot1.png">
-            {{ content }}
-        </section>
+        <div id="content">
+           <script>
+                function testanswer(){
+                if(document.getElementsByName("answer").value == "0")
+                    {
+                        alert("as");
+                        document.getElementsByName("answer").value == "Correct";
+                    }
+                }
+            </script>
+            <h2>Find the number of differences between the two images.</h2>
+            <h2>Level 1</h2>
+            <div id="imgs">
+                <img src="dot.png" style="float: left">
+                <img src="dot.png" style="float: right">
+            </div>
+            <form>
+               <br>
+                Answer: <input type="text" name="answer">
+                <button name="subject" type="submit" value="" onclick="testanswer()">Commit</button>
+            </form>
+        </div>
+<div id="navigate">
+   <br>
+   <br>
+    <button name="subject" type="submit" value="" onclick="window.location.href='level0.html'" style="float: left; background-color: limegreen; color: white;">Previous level</button>
+    <button name="subject" type="submit" value="" onclick="window.location.href='level2.html'" style="float: right;max-height: 50px;     max-width: 80px; background-color: limegreen; color: white">Next level</button>
+</div>
 
         <footer id="foot">
             <div class="links">
