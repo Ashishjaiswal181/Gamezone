@@ -53,8 +53,8 @@
 <div id="navigate">
    <br>
    <br>
-    <button name="subject" type="submit" value="" onclick="window.location.href='level0.html'" style="float: left; background-color: limegreen; color: white;">Previous level</button>
-    <button name="subject" type="submit" value="" onclick="window.location.href='level2.html'" style="float: right;max-height: 50px;     max-width: 80px; background-color: limegreen; color: white">Next level</button>
+    <button name="subject" type="submit" value="" onclick="window.location.href='index.html'" style="float: left; background-color: limegreen; color: white;">Previous level</button>
+    <button name="subject" type="submit" value="" onclick="window.location.href='level3.html'" style="float: right;max-height: 50px;     max-width: 80px; background-color: limegreen; color: white">Next level</button>
 </div>
 
         <footer id="foot">
