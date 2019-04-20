@@ -53,7 +53,6 @@
 <div id="navigate">
    <br>
    <br>
-    
     <button name="subject" type="submit" value="" onclick="window.location.href='index.html'" style="float: right;max-height: 50px;     max-width: 80px; background-color: limegreen; color: white">Next level</button>
 </div>
 
