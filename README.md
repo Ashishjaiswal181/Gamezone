@@ -1,3 +1,7 @@
+# Title: RUAS GameZone
+
+***
+
 ### Problem Statement
 
 Our University RUAS keeps us the students very busy with the curriculum so we do not get sufficient time for recreation. Recreation is very important for any person as it tells the brain relax and helps in keep calm and stress free. Recreational activities gives brain a boost, increases motivation and lets the mind deep into imagnation hence increasing productivity.
